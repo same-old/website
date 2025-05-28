@@ -1,0 +1,33 @@
+# Node modules (falls du mit npm arbeitest)
+node_modules/
+
+# Build-Verzeichnisse (z. B. bei SSGs wie Jekyll, Hugo, Vite)
+dist/
+build/
+_out/
+public/
+
+# temporäre Dateien
+*.log
+*.tmp
+*.swp
+*.DS_Store
+Thumbs.db
+
+# lokale Einstellungen/Editor-Dateien
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS-Trash
+.AppleDouble
+.LSOverride
+
+# Systemdateien
+ehthumbs.db
+Icon?
+
+# GitHub Pages speziell
+# Falls du ein eigenes `CNAME`-File hast, bitte nicht ignorieren!
+!CNAME
