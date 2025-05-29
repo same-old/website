@@ -1,5 +1,5 @@
 body {
-    background-color: 0xeeeeee;
+    background-color: #eeeeee;
     margin: 40px auto;
     max-width: 650px;
     line-height: 1.6;
@@ -13,8 +13,13 @@ h1, h2, h3 {
     text-align: center;         
 }
 
+li{
+    text-align: left;
+}
+
 
 a {
     color: #444;
     text-decoration: underline;
+    text-decoration: dashed;
 }
